@@ -1,2 +1,2 @@
 # To-do-List
-This project is a basic example of how to create a dynamic web page using front-end technologies.
+This project involves creating a to-do list using HTML, CSS, and JavaScript. The to-do list consists of a table where new entries can be added, and existing entries can be deleted. The user can input a new task in the table, which will be displayed along with other previously added tasks. If the user wants to remove a task from the list, they can simply click on the delete button associated with that task. This project is a basic example of how to create a dynamic web page using front-end technologies.
